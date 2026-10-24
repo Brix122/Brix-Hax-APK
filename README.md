@@ -1,62 +1,70 @@
-# Brix Hax — Android APK
-
+﻿# ⚡ Brix Hax — Minecraft Bedrock Android Client
 <p align="center">
-  <strong>An unofficial Android utility client for Minecraft Bedrock</strong><br>
-  Download the latest APK from the Releases page.
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game-Minecraft%20Bedrock-44B82A?logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Release-V49-blue" />
+  <img src="https://img.shields.io/badge/Distribution-APK-orange" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/latest"><strong>⬇ Download Latest APK</strong></a>
-  ·
-  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/tag/v49">V49 Release</a>
+  <b>An Android utility client project for Minecraft Bedrock Edition.</b>
+  <br />
+  Overlay interface, module menu and a downloadable Android build.
 </p>
-
+<p align="center">
+  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/latest">
+    <strong>⬇ DOWNLOAD LATEST APK</strong>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/tag/v49">
+    V49 Release Notes
+  </a>
+</p>
 ---
-
-## Latest release
-
-| Detail | Value |
+## 📱 About Brix Hax
+Brix Hax is an Android project for Minecraft Bedrock Edition. The project provides an in-game overlay interface and a module menu intended to make available features easier to access.
+The app uses a local networking/relay approach for its Bedrock connection workflow. Actual compatibility and behaviour depend on the installed build, Android device, Minecraft version and server configuration.
+## ✨ Project Features
+- **Overlay interface** — access the menu while using the app.
+- **Module menu** — view and manage modules exposed by the installed build.
+- **Floating menu button** — quick access to the overlay.
+- **Animated interface** — menu and button animation refinements.
+- **Android APK distribution** — download published builds from GitHub Releases.
+Feature availability can vary by version. This README does not guarantee compatibility with every server or Minecraft release.
+## 🧩 Module Credits
+**Modules by: Retrived Gamer**
+Project reference: [RetrivedMods/WClient](https://github.com/RetrivedMods/WClient)
+Credit is given to Retrived Gamer for the modules attributed to them in this project. Refer to the original project for its authorship and licensing details.
+> Important: WClient identifies its license as GNU GPL v3. If GPL-covered code from WClient is included in this APK, distribution must comply with the applicable license requirements, including providing corresponding source code where required. Attribution alone does not replace those requirements.
+## 📥 Download and Install
+1. Open the [Latest Releases page](https://github.com/Brix122/Brix-Hax-APK/releases/latest).
+2. Download `app-debug.apk`.
+3. Open the APK on your Android device.
+4. If Android requests permission to install from that source, review the prompt and proceed only if you trust the file.
+5. Launch the app and follow its on-screen instructions.
+### Latest published build
+| Detail | Information |
 | --- | --- |
-| Version | **V49 — Balanced Animation** |
-| Package file | `app-debug.apk` |
+| Version | V49 — Balanced Animation |
+| APK asset | `app-debug.apk` |
 | Platform | Android |
 | Build type | Debug build |
-| Download | [Get the APK](https://github.com/Brix122/Brix-Hax-APK/releases/download/v49/app-debug.apk) |
-
-**Tip:** Use the Releases page for the newest available build:  
-https://github.com/Brix122/Brix-Hax-APK/releases/latest
-
-## About
-
-Brix Hax is an unofficial Android project with an in-game overlay and module menu for Minecraft Bedrock. V49 focuses on a more balanced menu and floating-button animation experience.
-
-This repository is for **APK downloads and release information only**. The application's source code is not published here.
-
-## Install
-
-1. Open the [latest release](https://github.com/Brix122/Brix-Hax-APK/releases/latest).
-2. Download `app-debug.apk` to your Android device.
-3. Open the downloaded APK and follow Android's installation prompts.
-4. If Android asks, allow installation from that source only if you trust the APK.
-5. Launch Brix Hax and follow the app's on-screen instructions.
-
-If Android blocks installation, check that your device has enough free storage and that you downloaded the APK completely.
-
-## Important notes
-
-- This is a **debug build**, not a Play Store release.
-- Android may show a warning when installing apps downloaded outside the Play Store. Only continue if you trust the file and its origin.
-- Compatibility and behaviour can vary by Android version, Minecraft Bedrock version, device, and server. No compatibility with every server is guaranteed.
-- Use the app responsibly and follow the rules of the servers you join.
-- Brix Hax is an unofficial project and is **not affiliated with or endorsed by Mojang or Microsoft**.
-- The APK is provided as-is. Install and use it at your own discretion.
-
-## Help and bug reports
-
-If you encounter a problem, [open a GitHub issue](https://github.com/Brix122/Brix-Hax-APK/issues) and include your Android version, Minecraft version, and a short description of the issue. Do not post personal information.
-
+| Direct download | [Download V49](https://github.com/Brix122/Brix-Hax-APK/releases/download/v49/app-debug.apk) |
+For future updates, use the [latest release link](https://github.com/Brix122/Brix-Hax-APK/releases/latest).
+## 🛠 Troubleshooting
+- **APK won't install:** Check available storage and confirm the download completed.
+- **App doesn't work with your setup:** Check Android and Minecraft versions.
+- **Server disconnects:** Check server compatibility, network configuration and server rules.
+- **Found a bug?** [Open an issue](https://github.com/Brix122/Brix-Hax-APK/issues) with relevant version details. Do not include passwords or personal information.
+## ⚠️ Disclaimer
+- This is an unofficial project and is not affiliated with, endorsed by, or sponsored by Mojang or Microsoft.
+- This published build is a debug APK, not an official Play Store release.
+- Use the app responsibly and respect the rules of the servers you join.
+- The APK is provided as-is. Review the file and its origin before installing.
+## 📦 Repository Contents
+This repository is intended for APK releases and project documentation. Application source files are not included in the repository by this README update.
 ---
-
 <p align="center">
-  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/latest">Download Brix Hax APK</a>
+  <b>Brix Hax • Android • Minecraft Bedrock</b>
+  <br />
+  <a href="https://github.com/Brix122/Brix-Hax-APK/releases/latest">Download APK</a>
 </p>
